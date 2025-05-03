@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lavishly+Yours&family=Tagesschrift&display=swap');
+body {
+    font-family: "Tagesschrift";
+    text-align: center;
+    background-color: lightcoral;
+}
+
+
+img {
+    width: 500px;
+    height: 500px;
+}
